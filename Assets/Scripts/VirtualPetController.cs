@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class VirtualPetController : MonoBehaviour
 {
@@ -26,15 +27,16 @@ public class VirtualPetController : MonoBehaviour
     //Clean Stat
     private float Cleanliness;
 
-    //Whether Pet is clean or not
-    private bool IsClean;
-
+    //Whether Pet is Alive or not
+    private bool Alive;
 
     // Start is called before the first frame update
     void Start()
     {
+        
         Hunger = MAX_HUNGER;
         Cleanliness = MAX_CLEANLINESS;
+        Alive = true;
     }
 
     // Update is called once per frame
@@ -42,6 +44,7 @@ public class VirtualPetController : MonoBehaviour
     {
         DecreaseHunger();
         DecreaseCleanliness();
+        CheckAlive();
     }
 
     //Getter and Setter Functions-------------------------|
@@ -76,13 +79,29 @@ public class VirtualPetController : MonoBehaviour
         Cleanliness = newValue;
     }
 
+    public bool GetAlive()
+    {
+        return Alive;
+    }
+
+    public void SetAlive(bool newValue)
+    {
+        Alive = newValue;
+    }
+
     //End Getter and Setter Functions-------------------|
 
     //Decreases Hunger by the decrease rate
+    //the rate doubles if the cleanliness gets to 0
     private void DecreaseHunger()
     {
 
         Hunger -= Time.deltaTime * HUNGER_DECREASE_RATE;
+
+        if(Cleanliness <= 0f)
+        {
+            Hunger -= Time.deltaTime * (2 * HUNGER_DECREASE_RATE);
+        }
 
     }
 
@@ -104,6 +123,20 @@ public class VirtualPetController : MonoBehaviour
     {
         Cleanliness = MAX_CLEANLINESS;
         Hunger = Hunger * .90f;
+    }
+
+    //Checks the pets stats if hunger gets to 0 the pet dies
+    public void CheckAlive()
+    {
+        if( Hunger <= 0f )
+        {
+            Alive = false;
+            
+        }
+        else
+        {
+            Alive = true;
+        }
     }
 
 }
