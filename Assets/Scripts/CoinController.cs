@@ -12,6 +12,9 @@ public class CoinController : MonoBehaviour
     private float lifeTimer;
     private float MAX_LIFESPAN = 5f;
 
+    //Coins Collider
+    CircleCollider2D collider;
+
 
     //value of the coin
     private int coinValue;
@@ -29,6 +32,7 @@ public class CoinController : MonoBehaviour
         destroySound = GetComponent<AudioSource>();
         isClicked = false;
         lifeTimer = MAX_LIFESPAN;
+        collider = GetComponent<CircleCollider2D>();
         //Sets the coin value to 1-5;
         coinValue = (int)Random.Range(1, 5);
     }
@@ -42,12 +46,17 @@ public class CoinController : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        Physics2D.IgnoreCollision(collider, collision.gameObject.GetComponent<Collider2D>());
+    }
 
     public void OnDestroy()
     {
         if (isClicked)
         {
-            destroySound.Play();
             inventory.AddCoins(coinValue);
         }
         

@@ -26,8 +26,13 @@ public class SceneSwitcher : MonoBehaviour
         }
     }
 
-    void LoadMainScene()
+    public void LoadMainScene()
     {
         SceneManager.LoadScene(0);
+    }
+
+    public void EndApplication()
+    {
+        Application.Quit();
     }
 }

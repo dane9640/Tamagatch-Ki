@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
+  - Ground
+  - LeftWall
+  - RightWall
+  - Roof
   layers:
   - Default
   - TransparentFX

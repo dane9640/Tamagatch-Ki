@@ -34,7 +34,8 @@ public class ClickManager : MonoBehaviour
                     CoinController coin = hit.collider.gameObject.GetComponent<CoinController>();
                     //gets clip for length so it's not destroyed until clip plays
                     AudioClip clip = coin.GetDestroySound().clip;
-                    //plays destroy sound
+
+                    //plays destroy sound if isClicked is true
                     coin.GetDestroySound().Play();
                     //lets coin know it's been clicked.
                     coin.SetIsClicked(true);

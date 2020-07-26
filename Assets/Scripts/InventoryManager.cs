@@ -16,7 +16,7 @@ public class InventoryManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(inventory.GetTotalCoins().ToString());
+        //Debug.Log(inventory.GetTotalCoins().ToString());
     }
 
 
