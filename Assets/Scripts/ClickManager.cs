@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ClickManager : MonoBehaviour
 {
-
+    private Renderer rend;
     // Update is called once per frame
     void Update()
     {
@@ -18,9 +18,6 @@ public class ClickManager : MonoBehaviour
             //z axis
             Vector2 mousePosition2D = new Vector2(mousePosition.x, mousePosition.y);
 
-            Debug.Log("Mouse was Clicked. No make it do something");
-            Debug.Log("Mouse Position in world: " + mousePosition2D.ToString());
-
             //Sends a Raycast2d to the 2d mouse position in direction zero
             //not sure what that means
             RaycastHit2D hit = Physics2D.Raycast(mousePosition2D, Vector2.zero);
@@ -31,18 +28,23 @@ public class ClickManager : MonoBehaviour
                 //if game object that was clicked has the tag coin
                 if(hit.collider.gameObject.tag.ToString() == "Coin")
                 {
+                    //sets the renderer to the coin game object
+                    rend = hit.collider.gameObject.GetComponent<SpriteRenderer>();
+                    //gets the coins controller
                     CoinController coin = hit.collider.gameObject.GetComponent<CoinController>();
+                    //gets clip for length so it's not destroyed until clip plays
+                    AudioClip clip = coin.GetDestroySound().clip;
+                    //plays destroy sound
+                    coin.GetDestroySound().Play();
+                    //lets coin know it's been clicked.
                     coin.SetIsClicked(true);
-                    //Destroys the coin
-                    Destroy(hit.collider.gameObject);
+                    //hides coin until able to be destroyed.
+                    rend.enabled = false;
+                    //Destroys the coin after the sound effect plays
+                    Destroy(hit.collider.gameObject, clip.length);
                 }
-                Debug.Log("Something was Clicked!");
-                Debug.Log(hit.collider.gameObject.tag.ToString());
             }
-            else
-            {
-                Debug.Log("Nothing was Clicked");
-            }
+
         }
     }
 }

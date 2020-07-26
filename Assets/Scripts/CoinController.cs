@@ -18,12 +18,15 @@ public class CoinController : MonoBehaviour
 
     private bool isClicked;
 
+    private AudioSource destroySound;
+
 
     
 
     // Start is called before the first frame update
     void Start()
     {
+        destroySound = GetComponent<AudioSource>();
         isClicked = false;
         lifeTimer = MAX_LIFESPAN;
         //Sets the coin value to 1-5;
@@ -44,6 +47,7 @@ public class CoinController : MonoBehaviour
     {
         if (isClicked)
         {
+            destroySound.Play();
             inventory.AddCoins(coinValue);
         }
         
@@ -57,5 +61,10 @@ public class CoinController : MonoBehaviour
     public bool GetIsClicked()
     {
         return isClicked;
+    }
+
+    public AudioSource GetDestroySound()
+    {
+        return destroySound;
     }
 }
