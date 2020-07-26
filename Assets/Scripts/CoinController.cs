@@ -4,24 +4,58 @@ using UnityEngine;
 
 public class CoinController : MonoBehaviour
 {
+    //Players Inventory used to add coins to inventory
+    [SerializeField]
+    private PlayerInventory inventory;
+
     //Timer for the life of the coin in seconds
     private float lifeTimer;
-    private float MAX_LIFESPAN = 15f;
+    private float MAX_LIFESPAN = 5f;
+
+
+    //value of the coin
+    private int coinValue;
+
+    private bool isClicked;
+
+
+    
 
     // Start is called before the first frame update
     void Start()
     {
+        isClicked = false;
         lifeTimer = MAX_LIFESPAN;
+        //Sets the coin value to 1-5;
+        coinValue = (int)Random.Range(1, 5);
     }
 
     // Update is called once per frame
     void Update()
     {
         lifeTimer -= Time.deltaTime;
-        //Debug.Log(lifeTimer.ToString());
         if(lifeTimer <= 0f)
         {
             Destroy(gameObject);
         }
+    }
+
+    public void OnDestroy()
+    {
+        if (isClicked)
+        {
+            inventory.AddCoins(coinValue);
+        }
+        
+    }
+
+    public void SetIsClicked(bool value)
+    {
+        isClicked = value;
+    }
+
+    public bool GetIsClicked()
+    {
+        return isClicked;
     }
 }

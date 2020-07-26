@@ -29,14 +29,13 @@ public class CoinDropper : MonoBehaviour
 
         if (randomTimer >= 0)
         {
-            Debug.Log(randomTimer.ToString());
+            //Debug.Log(randomTimer.ToString());
             randomTimer -= Time.deltaTime;
         }
         else
         {
             Instantiate(coin);
             coin.transform.position = spawnPosition;
-            Debug.Log(coin.transform.position.ToString());
             randomTimer = Random.Range(1f, 30f);
         }
     }

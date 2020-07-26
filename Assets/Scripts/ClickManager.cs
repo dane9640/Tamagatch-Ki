@@ -31,7 +31,8 @@ public class ClickManager : MonoBehaviour
                 //if game object that was clicked has the tag coin
                 if(hit.collider.gameObject.tag.ToString() == "Coin")
                 {
-                    
+                    CoinController coin = hit.collider.gameObject.GetComponent<CoinController>();
+                    coin.SetIsClicked(true);
                     //Destroys the coin
                     Destroy(hit.collider.gameObject);
                 }
