@@ -8,6 +8,7 @@ public class CoinDropper : MonoBehaviour
     private float randomTimer;
     [SerializeField]
     private GameObject coin;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -24,8 +25,8 @@ public class CoinDropper : MonoBehaviour
 
     public void SpawnCoins()
     {
-        Vector3 spawnPosition = new Vector3(Random.Range(-9.5f, 9.5f),
-            6f);
+        Vector3 spawnPosition = new Vector3(Random.Range(-1.7f, 1.7f),
+            1f);
 
         if (randomTimer >= 0)
         {
@@ -34,8 +35,9 @@ public class CoinDropper : MonoBehaviour
         }
         else
         {
-            Instantiate(coin);
-            coin.transform.position = spawnPosition;
+            gameObject.transform.position = spawnPosition;
+            Instantiate(coin, spawnPosition, new Quaternion());
+            //coin.transform.position = spawnPosition;
             randomTimer = Random.Range(1f, 30f);
         }
     }

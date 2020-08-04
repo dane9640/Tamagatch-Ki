@@ -30,6 +30,22 @@ public class VirtualPetController : MonoBehaviour
     //Whether Pet is Alive or not
     private bool Alive;
 
+    //Whether Pet is tired or not
+    private bool isTired;
+
+    //Age of Pet
+    private int Age;
+    //How long it takes to age up in seconds
+    private float AgeUpTimer = 120f;
+
+    //Poop Object that Spawns when cleanliness get to a certain level
+    [SerializeField]
+    private GameObject poop;
+
+    private bool hasPooped;
+
+    private GameObject poopToDestroy;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -37,6 +53,9 @@ public class VirtualPetController : MonoBehaviour
         Hunger = MAX_HUNGER;
         Cleanliness = MAX_CLEANLINESS;
         Alive = true;
+        isTired = false;
+        hasPooped = false;
+        Age = 1;
     }
 
     // Update is called once per frame
@@ -44,7 +63,18 @@ public class VirtualPetController : MonoBehaviour
     {
         DecreaseHunger();
         DecreaseCleanliness();
+
+        if (AgeUpTimer > 0)
+        {
+            AgeUpTimer -= Time.deltaTime;
+        }else if (AgeUpTimer <= 0)
+        {
+            AgeUp();
+            AgeUpTimer = 120f;
+        }
+
         CheckAlive();
+        Debug.Log(Age.ToString());
     }
 
     //Getter and Setter Functions-------------------------|
@@ -109,6 +139,13 @@ public class VirtualPetController : MonoBehaviour
     private void DecreaseCleanliness()
     {
         Cleanliness -= Time.deltaTime * CLEANLINESS_DECREASE_RATE;
+        if (Cleanliness <= 0f && !hasPooped)
+        {
+            Vector3 spawnPos = new Vector3(gameObject.transform.position.x,
+                gameObject.transform.position.y - .2f, 0f);
+            poopToDestroy = Instantiate(poop, spawnPos, new Quaternion());
+            hasPooped = true;
+        }
     }
 
     //Feeds The Pet at the expense of Cleanliness
@@ -123,6 +160,8 @@ public class VirtualPetController : MonoBehaviour
     {
         Cleanliness = MAX_CLEANLINESS;
         Hunger = Hunger * .90f;
+        hasPooped = false;
+        Destroy(poopToDestroy);
     }
 
     //Checks the pets stats if hunger gets to 0 the pet dies
@@ -137,6 +176,12 @@ public class VirtualPetController : MonoBehaviour
         {
             Alive = true;
         }
+    }
+
+    public void AgeUp()
+    {
+        Age++;
+
     }
 
 }

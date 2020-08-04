@@ -35,8 +35,8 @@ public class AutomatedMovement : MonoBehaviour
             GetRandomMovementState();
             RestartTimer();
         }
-        Debug.Log("Movement State: " + movementState.ToString()+
-            "\nLast Movement State: " + this.lastMovementState.ToString());
+        //Debug.Log("Movement State: " + movementState.ToString()+
+        //    "\nLast Movement State: " + this.lastMovementState.ToString());
 
         Move();
     }
@@ -105,11 +105,11 @@ public class AutomatedMovement : MonoBehaviour
         if (collision.gameObject.tag == "LeftWall")
         {
             this.movementState = MovementState.RIGHT;
-            RestartTimer();
+            //RestartTimer();
         } else if(collision.gameObject.tag == "RightWall")
         {
             this.movementState = MovementState.LEFT;
-            RestartTimer();
+           //RestartTimer();
         } 
 
     }

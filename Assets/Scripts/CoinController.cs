@@ -19,6 +19,7 @@ public class CoinController : MonoBehaviour
     //value of the coin
     private int coinValue;
 
+    //whether coin has been clicked or not
     private bool isClicked;
 
     private AudioSource destroySound;
@@ -40,17 +41,29 @@ public class CoinController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        lifeTimer -= Time.deltaTime;
-        if(lifeTimer <= 0f)
-        {
-            Destroy(gameObject);
-        }
+       // lifeTimer -= Time.deltaTime;
+       // if(lifeTimer <= 0f)
+       // {
+       //     Destroy(gameObject);
+       // }
     }
     
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        Physics2D.IgnoreCollision(collider, collision.gameObject.GetComponent<Collider2D>());
+        if (collision.gameObject.tag == "Ground")
+            Destroy(gameObject);
+        else if (collision.gameObject.tag == "Pet")
+        {
+            AudioClip clip = destroySound.clip;
+            Renderer rend = GetComponent<Renderer>();
+            inventory.AddCoins(coinValue);
+            rend.enabled = false;
+            destroySound.Play();
+            Destroy(gameObject, clip.length);
+
+        }
+        
     }
 
     public void OnDestroy()

@@ -1,0 +1,2129 @@
+fileFormatVersion: 2
+guid: 155900d46e7c74f5cb74b1a6707297ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5886668974916095478
+    second: baby kitty rough sprite sheet_0
+  - first:
+      213: 6477965276086807861
+    second: baby kitty rough sprite sheet_1
+  - first:
+      213: -7921248094558789584
+    second: baby kitty rough sprite sheet_2
+  - first:
+      213: -2624128953220503549
+    second: baby kitty rough sprite sheet_3
+  - first:
+      213: 2512286266951965862
+    second: baby kitty rough sprite sheet_4
+  - first:
+      213: 4758156910307609576
+    second: baby kitty rough sprite sheet_5
+  - first:
+      213: 6666268621008004305
+    second: baby kitty rough sprite sheet_6
+  - first:
+      213: 103525412583135589
+    second: baby kitty rough sprite sheet_7
+  - first:
+      213: 8031464003733860883
+    second: baby kitty rough sprite sheet_8
+  - first:
+      213: -4826873345955378695
+    second: baby kitty rough sprite sheet_9
+  - first:
+      213: -5025661785819181844
+    second: baby kitty rough sprite sheet_10
+  - first:
+      213: 7714683349276190037
+    second: baby kitty rough sprite sheet_11
+  - first:
+      213: -27432252765054349
+    second: baby kitty rough sprite sheet_12
+  - first:
+      213: -4071283734560419651
+    second: baby kitty rough sprite sheet_13
+  - first:
+      213: 5582387041737444990
+    second: baby kitty rough sprite sheet_14
+  - first:
+      213: -1477051355208180568
+    second: baby kitty rough sprite sheet_15
+  - first:
+      213: -6104299881411518134
+    second: baby kitty rough sprite sheet_16
+  - first:
+      213: -8042332774801541891
+    second: baby kitty rough sprite sheet_17
+  - first:
+      213: -102466328060908600
+    second: baby kitty rough sprite sheet_18
+  - first:
+      213: -8662587860483176920
+    second: baby kitty rough sprite sheet_19
+  - first:
+      213: 2624598148171166807
+    second: baby kitty rough sprite sheet_20
+  - first:
+      213: -6183830729262304889
+    second: baby kitty rough sprite sheet_21
+  - first:
+      213: 4353182894324105120
+    second: baby kitty rough sprite sheet_22
+  - first:
+      213: 9142424588503163612
+    second: baby kitty rough sprite sheet_23
+  - first:
+      213: -4183376730706972810
+    second: baby kitty rough sprite sheet_24
+  - first:
+      213: 4404610195886532428
+    second: baby kitty rough sprite sheet_25
+  - first:
+      213: 2517655829587771570
+    second: baby kitty rough sprite sheet_26
+  - first:
+      213: -453807120740216779
+    second: baby kitty rough sprite sheet_27
+  - first:
+      213: 137640040648559225
+    second: baby kitty rough sprite sheet_28
+  - first:
+      213: 5541978280627378437
+    second: baby kitty rough sprite sheet_29
+  - first:
+      213: -5043596452327305298
+    second: baby kitty rough sprite sheet_30
+  - first:
+      213: -425103578103097153
+    second: baby kitty rough sprite sheet_31
+  - first:
+      213: 5963891807789204754
+    second: baby kitty rough sprite sheet_32
+  - first:
+      213: 6681773807484543579
+    second: baby kitty rough sprite sheet_33
+  - first:
+      213: -7179223075623153143
+    second: baby kitty rough sprite sheet_34
+  - first:
+      213: 1130832917693496389
+    second: baby kitty rough sprite sheet_35
+  - first:
+      213: -4278427891530402387
+    second: baby kitty rough sprite sheet_36
+  - first:
+      213: 309103433533537784
+    second: baby kitty rough sprite sheet_37
+  - first:
+      213: -8434630559529619811
+    second: baby kitty rough sprite sheet_38
+  - first:
+      213: -4681711305221622753
+    second: baby kitty rough sprite sheet_39
+  - first:
+      213: 7213533958980323743
+    second: baby kitty rough sprite sheet_40
+  - first:
+      213: -5291647420802787413
+    second: baby kitty rough sprite sheet_41
+  - first:
+      213: 6965681193076505302
+    second: baby kitty rough sprite sheet_42
+  - first:
+      213: -3934373733524991866
+    second: baby kitty rough sprite sheet_43
+  - first:
+      213: 6285793463155652827
+    second: baby kitty rough sprite sheet_44
+  - first:
+      213: 641079181339739901
+    second: baby kitty rough sprite sheet_45
+  - first:
+      213: 5710529791426400025
+    second: baby kitty rough sprite sheet_46
+  - first:
+      213: -3085594619201728479
+    second: baby kitty rough sprite sheet_47
+  - first:
+      213: -452291623731577212
+    second: baby kitty rough sprite sheet_48
+  - first:
+      213: -1423351949296926897
+    second: baby kitty rough sprite sheet_49
+  - first:
+      213: -2782849339033069552
+    second: baby kitty rough sprite sheet_50
+  - first:
+      213: 5466271578820468504
+    second: baby kitty rough sprite sheet_51
+  - first:
+      213: -1840706549767496052
+    second: baby kitty rough sprite sheet_52
+  - first:
+      213: 5548926434470090010
+    second: baby kitty rough sprite sheet_53
+  - first:
+      213: -6841302960988128443
+    second: baby kitty rough sprite sheet_54
+  - first:
+      213: -5517540134621486201
+    second: baby kitty rough sprite sheet_55
+  - first:
+      213: -8426846593558556937
+    second: baby kitty rough sprite sheet_56
+  - first:
+      213: -7753629501451730456
+    second: baby kitty rough sprite sheet_57
+  - first:
+      213: 3391849391309340466
+    second: baby kitty rough sprite sheet_58
+  - first:
+      213: -1964860906425563244
+    second: baby kitty rough sprite sheet_59
+  - first:
+      213: -1664829837284204240
+    second: baby kitty rough sprite sheet_60
+  - first:
+      213: -3359728284943514236
+    second: baby kitty rough sprite sheet_61
+  - first:
+      213: 3493595192623065888
+    second: baby kitty rough sprite sheet_62
+  - first:
+      213: 3324880677134516619
+    second: baby kitty rough sprite sheet_63
+  - first:
+      213: 5637116813250680316
+    second: baby kitty rough sprite sheet_64
+  - first:
+      213: 5343202190247941207
+    second: baby kitty rough sprite sheet_65
+  - first:
+      213: -2733852725772651436
+    second: baby kitty rough sprite sheet_66
+  - first:
+      213: 4002484739071388501
+    second: baby kitty rough sprite sheet_67
+  - first:
+      213: 6102409424937422065
+    second: baby kitty rough sprite sheet_68
+  - first:
+      213: 2783441469919031040
+    second: baby kitty rough sprite sheet_69
+  - first:
+      213: -5343326354331762446
+    second: baby kitty rough sprite sheet_70
+  - first:
+      213: -878132095940342312
+    second: baby kitty rough sprite sheet_71
+  - first:
+      213: 6032931907592131060
+    second: baby kitty rough sprite sheet_72
+  - first:
+      213: 1607551530318736684
+    second: baby kitty rough sprite sheet_73
+  - first:
+      213: 8791585582776589384
+    second: baby kitty rough sprite sheet_74
+  - first:
+      213: 2734210087989298541
+    second: baby kitty rough sprite sheet_0
+  - first:
+      213: -4764048956628239317
+    second: baby kitty rough sprite sheet_1
+  - first:
+      213: -7026839156135762529
+    second: baby kitty rough sprite sheet_2
+  - first:
+      213: -6387012293353770077
+    second: baby kitty rough sprite sheet_3
+  - first:
+      213: -2378811445209067984
+    second: baby kitty rough sprite sheet_4
+  - first:
+      213: -4564079521621929584
+    second: baby kitty rough sprite sheet_5
+  - first:
+      213: 6802324439184350983
+    second: baby kitty rough sprite sheet_6
+  - first:
+      213: -7218920337545559801
+    second: baby kitty rough sprite sheet_7
+  - first:
+      213: 922567659477780054
+    second: baby kitty rough sprite sheet_8
+  - first:
+      213: 6543739912815251090
+    second: baby kitty rough sprite sheet_9
+  - first:
+      213: 7048225894232649454
+    second: baby kitty rough sprite sheet_10
+  - first:
+      213: -69884741796270214
+    second: baby kitty rough sprite sheet_11
+  - first:
+      213: -7084675211439157669
+    second: baby kitty rough sprite sheet_12
+  - first:
+      213: 5609575058301568117
+    second: baby kitty rough sprite sheet_13
+  - first:
+      213: 337423735638313138
+    second: baby kitty rough sprite sheet_14
+  - first:
+      213: 1209883516129524801
+    second: baby kitty rough sprite sheet_15
+  - first:
+      213: 313603715828139178
+    second: baby kitty rough sprite sheet_16
+  - first:
+      213: 6675070742949860590
+    second: baby kitty rough sprite sheet_17
+  - first:
+      213: -1650406934375059636
+    second: baby kitty rough sprite sheet_18
+  - first:
+      213: -1294342157131543261
+    second: baby kitty rough sprite sheet_19
+  - first:
+      213: 6522128805450801360
+    second: baby kitty rough sprite sheet_20
+  - first:
+      213: 5911868873387926143
+    second: baby kitty rough sprite sheet_21
+  - first:
+      213: -2234382347686623379
+    second: baby kitty rough sprite sheet_22
+  - first:
+      213: 3861758360498339548
+    second: baby kitty rough sprite sheet_23
+  - first:
+      213: -1044055279046052022
+    second: baby kitty rough sprite sheet_24
+  - first:
+      213: 9196969058531235120
+    second: baby kitty rough sprite sheet_25
+  - first:
+      213: 8775679564245371618
+    second: baby kitty rough sprite sheet_26
+  - first:
+      213: -135096106519388926
+    second: baby kitty rough sprite sheet_27
+  - first:
+      213: 3814387895301563156
+    second: baby kitty rough sprite sheet_28
+  - first:
+      213: 5801359999341854714
+    second: baby kitty rough sprite sheet_29
+  - first:
+      213: -2447868975255035693
+    second: baby kitty rough sprite sheet_30
+  - first:
+      213: 7467355585247328761
+    second: baby kitty rough sprite sheet_31
+  - first:
+      213: -237235545034474845
+    second: baby kitty rough sprite sheet_32
+  - first:
+      213: 7674536700730188751
+    second: baby kitty rough sprite sheet_33
+  - first:
+      213: -1638304449981987226
+    second: baby kitty rough sprite sheet_34
+  - first:
+      213: 4537527411428358183
+    second: baby kitty rough sprite sheet_35
+  - first:
+      213: 6374373890745587920
+    second: baby kitty rough sprite sheet_36
+  - first:
+      213: -6169402047211529428
+    second: baby kitty rough sprite sheet_37
+  - first:
+      213: -2657335583011419644
+    second: baby kitty rough sprite sheet_38
+  - first:
+      213: -897552147216578485
+    second: baby kitty rough sprite sheet_39
+  - first:
+      213: 2279529022179290385
+    second: baby kitty rough sprite sheet_40
+  - first:
+      213: 3754752877415910749
+    second: baby kitty rough sprite sheet_41
+  - first:
+      213: 4427281778148189272
+    second: baby kitty rough sprite sheet_42
+  - first:
+      213: -8085359267029599450
+    second: baby kitty rough sprite sheet_43
+  - first:
+      213: 463844310844233879
+    second: baby kitty rough sprite sheet_44
+  - first:
+      213: 4645000467454525236
+    second: baby kitty rough sprite sheet_45
+  - first:
+      213: 887504736278477670
+    second: baby kitty rough sprite sheet_46
+  - first:
+      213: 4055911458027884647
+    second: baby kitty rough sprite sheet_47
+  - first:
+      213: -6869692515535370062
+    second: baby kitty rough sprite sheet_48
+  - first:
+      213: 7791313409919056145
+    second: baby kitty rough sprite sheet_49
+  - first:
+      213: 5234216335163137525
+    second: baby kitty rough sprite sheet_50
+  - first:
+      213: -126147054734996997
+    second: baby kitty rough sprite sheet_51
+  - first:
+      213: 2203427743178782322
+    second: baby kitty rough sprite sheet_52
+  - first:
+      213: 6113283488583895064
+    second: baby kitty rough sprite sheet_53
+  - first:
+      213: 2995517628531177150
+    second: baby kitty rough sprite sheet_54
+  - first:
+      213: 3266138577546080616
+    second: baby kitty rough sprite sheet_55
+  - first:
+      213: -9129736932479861555
+    second: baby kitty rough sprite sheet_56
+  - first:
+      213: -8921418603705803977
+    second: baby kitty rough sprite sheet_57
+  - first:
+      213: -6321064687523767391
+    second: baby kitty rough sprite sheet_58
+  - first:
+      213: 5609469889220765591
+    second: baby kitty rough sprite sheet_59
+  - first:
+      213: 1501879760877047530
+    second: baby kitty rough sprite sheet_60
+  - first:
+      213: -7909885668612667406
+    second: baby kitty rough sprite sheet_61
+  - first:
+      213: -2169979790672275162
+    second: baby kitty rough sprite sheet_62
+  - first:
+      213: -4223063604495174691
+    second: baby kitty rough sprite sheet_63
+  - first:
+      213: 7926945975309005417
+    second: baby kitty rough sprite sheet_64
+  - first:
+      213: -6966609429178425015
+    second: baby kitty rough sprite sheet_65
+  - first:
+      213: 195730885351245807
+    second: baby kitty rough sprite sheet_66
+  - first:
+      213: -3697613781091215935
+    second: baby kitty rough sprite sheet_67
+  - first:
+      213: -4010740796130931334
+    second: baby kitty rough sprite sheet_68
+  - first:
+      213: 5794755196902273541
+    second: baby kitty rough sprite sheet_69
+  - first:
+      213: 1651908229290217534
+    second: baby kitty rough sprite sheet_70
+  - first:
+      213: -1912473114717640678
+    second: baby kitty rough sprite sheet_71
+  - first:
+      213: 1213520158145718272
+    second: baby kitty rough sprite sheet_72
+  - first:
+      213: -6743909228488240539
+    second: baby kitty rough sprite sheet_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 869, y: 0, z: 0, w: 448}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 233
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6544eba69dd1f520800000000000000
+      internalID: 2734210087989298541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 420
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7a9707b2b2edb0800000000000000
+      internalID: -4764048956628239317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 421
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e8bc6407ab7e90800000000000000
+      internalID: -7026839156135762529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 311
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37896b826cc57a0800000000000000
+      internalID: -6387012293353770077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 311
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0ea41893ccfed0800000000000000
+      internalID: -2378811445209067984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 311
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091171b4bd129a0c0800000000000000
+      internalID: -4564079521621929584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 310
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f9a848906b66e50800000000000000
+      internalID: 6802324439184350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70101c2533e31db90800000000000000
+      internalID: -7218920337545559801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656cf68f56e9dcc00800000000000000
+      internalID: 922567659477780054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e06edc7c800da50800000000000000
+      internalID: 6543739912815251090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 174
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee62729b1450d160800000000000000
+      internalID: 7048225894232649454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f63069238b70ff0800000000000000
+      internalID: -69884741796270214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e47217e6d2ead90800000000000000
+      internalID: -7084675211439157669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c4f27bc639dd40800000000000000
+      internalID: 5609575058301568117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 174
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c18d8915cea400800000000000000
+      internalID: 337423735638313138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 205
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c308ec5ae5ac010800000000000000
+      internalID: 1209883516129524801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 175
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4cd220be42a5400800000000000000
+      internalID: 313603715828139178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 175
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee41124897d92ac50800000000000000
+      internalID: 6675070742949860590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fabbd23a39819e0800000000000000
+      internalID: -1650406934375059636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 178
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8c527aa2990ee0800000000000000
+      internalID: -1294342157131543261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 121
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0ec34c791438a50800000000000000
+      internalID: 6522128805450801360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e9fcfa6d2b0250800000000000000
+      internalID: 5911868873387926143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674cb1d711edf0e0800000000000000
+      internalID: -2234382347686623379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef5e5b4c8b79530800000000000000
+      internalID: 3861758360498339548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 117
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b69e5145c281f0800000000000000
+      internalID: -1044055279046052022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 117
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035530091a232af70800000000000000
+      internalID: 9196969058531235120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0081711a79c970800000000000000
+      internalID: 8775679564245371618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 117
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9f509eca002ef0800000000000000
+      internalID: -135096106519388926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 117
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413effec49d6fe430800000000000000
+      internalID: 3814387895301563156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 117
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff7ee6be22928050800000000000000
+      internalID: 5801359999341854714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 130
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06939e22c670ed0800000000000000
+      internalID: -2447868975255035693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9323e475061a760800000000000000
+      internalID: 7467355585247328761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabf1a578b25bcf0800000000000000
+      internalID: -237235545034474845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 67
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a8b6c77e618a60800000000000000
+      internalID: 7674536700730188751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c1e868c29349e0800000000000000
+      internalID: -1638304449981987226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 67
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f8ccc32988fe30800000000000000
+      internalID: 4537527411428358183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d85a6fd743567850800000000000000
+      internalID: 6374373890745587920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b93636681e16aa0800000000000000
+      internalID: -6169402047211529428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a499dcd5f3f1bd0800000000000000
+      internalID: -2657335583011419644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 57
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4844c9d3114b83f0800000000000000
+      internalID: -897552147216578485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da036719382af10800000000000000
+      internalID: 2279529022179290385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 57
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d40c539df8b1430800000000000000
+      internalID: 3754752877415910749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854251b025dd07d30800000000000000
+      internalID: 4427281778148189272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 57
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb94fa5980bcf80800000000000000
+      internalID: -8085359267029599450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d4f271f7ef6600800000000000000
+      internalID: 463844310844233879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 103
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f762c905b567040800000000000000
+      internalID: 4645000467454525236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 87
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bfa5efadc015c00800000000000000
+      internalID: 887504736278477670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76050306bfd794830800000000000000
+      internalID: 4055911458027884647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ca57ed03f9a0a0800000000000000
+      internalID: -6869692515535370062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 84
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11976f3244e402c60800000000000000
+      internalID: 7791313409919056145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 103
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd12f6560ca3a840800000000000000
+      internalID: 5234216335163137525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 85
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90f0d0ce5df3ef0800000000000000
+      internalID: -126147054734996997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767960bbd5249e10800000000000000
+      internalID: 2203427743178782322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 91
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818cd4c71feb6d450800000000000000
+      internalID: 6113283488583895064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 85
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb675078967329920800000000000000
+      internalID: 2995517628531177150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86175d54bb7a35d20800000000000000
+      internalID: 3266138577546080616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 13
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf5ce91a8ac4180800000000000000
+      internalID: -9129736932479861555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bdd813c01c03480800000000000000
+      internalID: -8921418603705803977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab51e938211748a0800000000000000
+      internalID: -6321064687523767391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e04dd427d8dd40800000000000000
+      internalID: 5609469889220765591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeecc6a6fafb7d410800000000000000
+      internalID: 1501879760877047530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7836c84e07a3290800000000000000
+      internalID: -7909885668612667406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d33f90eea2e1e0800000000000000
+      internalID: -2169979790672275162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33f26c60aa465c0800000000000000
+      internalID: -4223063604495174691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627104ad5b220e60800000000000000
+      internalID: 7926945975309005417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941eee482a1a15f90800000000000000
+      internalID: -6966609429178425015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70fe4043067b200800000000000000
+      internalID: 195730885351245807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5187d5bdf6facc0800000000000000
+      internalID: -3697613781091215935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc278ee7cf658c0800000000000000
+      internalID: -4010740796130931334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50275bf462b1b6050800000000000000
+      internalID: 5794755196902273541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30536848c1cce610800000000000000
+      internalID: 1651908229290217534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1825cab5d78575e0800000000000000
+      internalID: -1912473114717640678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 13
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082d02872a47d010800000000000000
+      internalID: 1213520158145718272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby kitty rough sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 10
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562da769942d862a0800000000000000
+      internalID: -6743909228488240539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
