@@ -49,8 +49,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MAX_HUNGER: 100
   MAX_CLEANLINESS: 100
+  MAX_SLEEP: 30
+  SLEEP_DECREASE_RATE: 1
   HUNGER_DECREASE_RATE: 0.5
   CLEANLINESS_DECREASE_RATE: 2
+  poop: {fileID: 0}
 --- !u!212 &4299163645045782302
 SpriteRenderer:
   m_ObjectHideFlags: 0

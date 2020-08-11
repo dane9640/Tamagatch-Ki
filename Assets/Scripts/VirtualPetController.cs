@@ -13,6 +13,14 @@ public class VirtualPetController : MonoBehaviour
     [SerializeField]
     private float MAX_CLEANLINESS;
 
+    //The Max Sleep Value can be set in editor
+    [SerializeField]
+    private float MAX_SLEEP;
+
+    //Decrease Rate for Sleep can be set in editor
+    [SerializeField]
+    private float SLEEP_DECREASE_RATE;
+
     //Decrease Rate for Hunger
     [SerializeField]
     private float HUNGER_DECREASE_RATE;
@@ -27,11 +35,17 @@ public class VirtualPetController : MonoBehaviour
     //Clean Stat
     private float Cleanliness;
 
+    //Sleep Stat
+    private float SleepStat;
+
     //Whether Pet is Alive or not
     private bool Alive;
 
     //Whether Pet is tired or not
     private bool isTired;
+
+    //wether the pet is sleeping or not
+    private bool isSleeping;
 
     //Age of Pet
     private int Age;
@@ -42,20 +56,24 @@ public class VirtualPetController : MonoBehaviour
     [SerializeField]
     private GameObject poop;
 
+    //whether the pet has pooped or not since the last cleaning
     private bool hasPooped;
 
+    //The poop object that is set to destroy when cleaned
     private GameObject poopToDestroy;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        SleepStat = MAX_SLEEP;
+        isSleeping = false;
         Hunger = MAX_HUNGER;
         Cleanliness = MAX_CLEANLINESS;
         Alive = true;
         isTired = false;
         hasPooped = false;
         Age = 1;
+        
     }
 
     // Update is called once per frame
@@ -63,6 +81,13 @@ public class VirtualPetController : MonoBehaviour
     {
         DecreaseHunger();
         DecreaseCleanliness();
+        DecreaseSleep();
+
+        if (isSleeping)
+        {
+            IncreaseSleep();
+        }
+
 
         if (AgeUpTimer > 0)
         {
@@ -75,6 +100,7 @@ public class VirtualPetController : MonoBehaviour
 
         CheckAlive();
         Debug.Log(Age.ToString());
+        Debug.Log(SleepStat.ToString());
     }
 
     //Getter and Setter Functions-------------------------|
@@ -119,6 +145,36 @@ public class VirtualPetController : MonoBehaviour
         Alive = newValue;
     }
 
+    public void SetSleepStat(float newValue)
+    {
+        SleepStat = newValue;
+    }
+
+    public float GetSleepStat()
+    {
+        return SleepStat;
+    }
+
+    public bool GetIsTired()
+    {
+        return isTired;
+    }
+
+    public void SetIsTired(bool value)
+    {
+        isTired = value;
+    }
+
+    public bool GetIsSleeping()
+    {
+        return isSleeping;
+    }
+
+    public void SetIsSleeping(bool value)
+    {
+        isSleeping = value;
+    }
+
     //End Getter and Setter Functions-------------------|
 
     //Decreases Hunger by the decrease rate
@@ -148,6 +204,36 @@ public class VirtualPetController : MonoBehaviour
         }
     }
 
+    //Decreases Sleep by the Decrease Rate
+    //Once it reaches 20 the pet gets tired.
+    //TODO When Sleep Reaches 0 happiness subtracted by one
+    public void DecreaseSleep()
+    {
+        SleepStat -= Time.deltaTime * SLEEP_DECREASE_RATE;
+
+        if(SleepStat <= 20f)
+        {
+            isTired = true;
+        }
+
+    }
+
+    //Increases Sleep stat until it reaches max value
+    public void IncreaseSleep()
+    {
+        bool sleepyTime = true;
+        if(sleepyTime)
+        {
+            SleepStat += 3 * Time.deltaTime;
+            if (SleepStat >= MAX_SLEEP)
+            { 
+                isSleeping = false;
+                isTired = false;
+            }
+        }
+
+    }
+
     //Feeds The Pet at the expense of Cleanliness
     public void Feed()
     {
@@ -164,6 +250,14 @@ public class VirtualPetController : MonoBehaviour
         Destroy(poopToDestroy);
     }
 
+    //Makes the Pet Sleep when called
+    //Set is tired to false when sleep reaches max again
+    public void Sleep()
+    {
+        isSleeping = true;
+
+    }
+
     //Checks the pets stats if hunger gets to 0 the pet dies
     public void CheckAlive()
     {
@@ -178,10 +272,12 @@ public class VirtualPetController : MonoBehaviour
         }
     }
 
+    //Increases the age by one
     public void AgeUp()
     {
         Age++;
 
     }
+
 
 }
