@@ -1,34 +1,25 @@
 fileFormatVersion: 2
-guid: 4992fde79b6224b9991fc1a3b00c189c
+guid: 66877b17962c94a64983c3275884592b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2126304263092680613
-    second: sleepSheep_0
+      213: 2487487809358126209
+    second: loveSheet_0
   - first:
-      213: -2076277883974035894
-    second: sleepSheep_1
+      213: -1915966851892033768
+    second: loveSheet_1
   - first:
-      213: 6508162435976038028
-    second: sleepSheep_2
+      213: -1099603224612662291
+    second: loveSheet_2
   - first:
-      213: -8563841736670010045
-    second: sleepSheep_3
+      213: -1670614188085678778
+    second: loveSheet_3
   - first:
-      213: 3786097204497744370
-    second: sleepSheep_4
+      213: -4581374680802123976
+    second: loveSheet_4
   - first:
-      213: 3890754477834902172
-    second: sleepSheep_5
-  - first:
-      213: 5429920461882015917
-    second: sleepSheep_6
-  - first:
-      213: -5990683328174534422
-    second: sleepSheep_7
-  - first:
-      213: -7835334448919648441
-    second: sleepSheep_8
+      213: -7321120484179959771
+    second: loveSheet_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -77,7 +68,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -138,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sleepSheep_0
+      name: loveSheet_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 65
-        height: 52
+        width: 63
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5846f1d989dd72e0800000000000000
-      internalID: -2126304263092680613
+      spriteID: 18cd7ebbbf4558220800000000000000
+      internalID: 2487487809358126209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleepSheep_1
+      name: loveSheet_1
       rect:
         serializedVersion: 2
-        x: 73
+        x: 69
         y: 0
-        width: 65
-        height: 50
+        width: 63
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a465abed3449f23e0800000000000000
-      internalID: -2076277883974035894
+      spriteID: 8174d87ac4e1965e0800000000000000
+      internalID: -1915966851892033768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleepSheep_2
+      name: loveSheet_2
       rect:
         serializedVersion: 2
-        x: 142
+        x: 138
         y: 0
-        width: 65
-        height: 52
+        width: 63
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8684e8f043a15a50800000000000000
-      internalID: 6508162435976038028
+      spriteID: de3961371bc6db0f0800000000000000
+      internalID: -1099603224612662291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleepSheep_3
+      name: loveSheet_3
       rect:
         serializedVersion: 2
-        x: 211
+        x: 207
         y: 0
-        width: 65
-        height: 50
+        width: 63
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 345ae1d405f172980800000000000000
-      internalID: -8563841736670010045
+      spriteID: 64dec6a4f39c0d8e0800000000000000
+      internalID: -1670614188085678778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleepSheep_4
+      name: loveSheet_4
       rect:
         serializedVersion: 2
-        x: 280
+        x: 276
         y: 0
-        width: 65
-        height: 52
+        width: 63
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f1003f095bea8430800000000000000
-      internalID: 3786097204497744370
+      spriteID: 83f12df3000bb60c0800000000000000
+      internalID: -4581374680802123976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleepSheep_5
+      name: loveSheet_5
       rect:
         serializedVersion: 2
-        x: 349
+        x: 345
         y: 0
-        width: 65
-        height: 50
+        width: 63
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,71 +248,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9a1c9f559cbef530800000000000000
-      internalID: 3890754477834902172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sleepSheep_6
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 0
-        width: 65
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da04a1124e3fa5b40800000000000000
-      internalID: 5429920461882015917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sleepSheep_7
-      rect:
-        serializedVersion: 2
-        x: 487
-        y: 0
-        width: 65
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae05d46c041dcdca0800000000000000
-      internalID: -5990683328174534422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sleepSheep_8
-      rect:
-        serializedVersion: 2
-        x: 556
-        y: 0
-        width: 65
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74763c305dc434390800000000000000
-      internalID: -7835334448919648441
+      spriteID: 5202e9665b7266a90800000000000000
+      internalID: -7321120484179959771
       vertices: []
       indices: 
       edges: []

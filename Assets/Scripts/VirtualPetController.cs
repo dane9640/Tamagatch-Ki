@@ -29,6 +29,10 @@ public class VirtualPetController : MonoBehaviour
     [SerializeField]
     private float CLEANLINESS_DECREASE_RATE;
 
+    //pet's animation controller
+    private Animator anim;
+
+
     //Hunger stat
     private float Hunger;
 
@@ -73,6 +77,8 @@ public class VirtualPetController : MonoBehaviour
         isTired = false;
         hasPooped = false;
         Age = 1;
+
+        anim = GetComponent<Animator>();
         
     }
 
@@ -87,7 +93,7 @@ public class VirtualPetController : MonoBehaviour
         {
             IncreaseSleep();
         }
-
+        anim.SetBool("isSleeping", isSleeping);
 
         if (AgeUpTimer > 0)
         {
@@ -99,8 +105,6 @@ public class VirtualPetController : MonoBehaviour
         }
 
         CheckAlive();
-        Debug.Log(Age.ToString());
-        Debug.Log(SleepStat.ToString());
     }
 
     //Getter and Setter Functions-------------------------|
@@ -229,6 +233,8 @@ public class VirtualPetController : MonoBehaviour
             { 
                 isSleeping = false;
                 isTired = false;
+
+                //anim.SetBool("isSleeping", isSleeping);
             }
         }
 
@@ -239,6 +245,7 @@ public class VirtualPetController : MonoBehaviour
     {
         Hunger = MAX_HUNGER;
         Cleanliness = Cleanliness * .70f;
+        anim.SetTrigger("EatButtonPressed");
     }
 
     //Cleans the Pet at the expense of Hunger
@@ -248,6 +255,7 @@ public class VirtualPetController : MonoBehaviour
         Hunger = Hunger * .90f;
         hasPooped = false;
         Destroy(poopToDestroy);
+        anim.SetTrigger("CleanButtonPressed");
     }
 
     //Makes the Pet Sleep when called
@@ -255,6 +263,7 @@ public class VirtualPetController : MonoBehaviour
     public void Sleep()
     {
         isSleeping = true;
+        anim.SetBool("isSleeping", isSleeping);
 
     }
 
