@@ -19,6 +19,6 @@ public class CoinsUIController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       StatText.text = "Coins: " + (this.inventory.GetTotalCoins().ToString());
+       StatText.text = (this.inventory.GetTotalCoins().ToString());
     }
 }
